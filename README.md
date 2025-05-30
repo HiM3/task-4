@@ -48,10 +48,7 @@ This project is a responsive e-commerce website template for a RainWear store. I
 .
 ├── index.html
 ├── style.css
-├── images/
-│   ├── *.jpg
-│   ├── *.png
-│   └── *.webp
+├── All images
 └── README.md
 ```
 
@@ -59,7 +56,7 @@ This project is a responsive e-commerce website template for a RainWear store. I
 
 ## Credits
 
-- Design and development by [Your Name/Team Name (Optional)]
+- Design and development by [Mehta Meet]
 - Icons provided by Font Awesome.
 
 ## License
